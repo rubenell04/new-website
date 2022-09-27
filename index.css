@@ -12,11 +12,11 @@ header {
 
 h1 {
      position: absolute;
-     padding: 3px;
+     padding: 4px;
      float: left;
      margin-left: 2%;
      font-family: "Gill Sans", sans-serif;
-     color: #39ca74;
+     color: #ffffff;
 }
 
 span {
