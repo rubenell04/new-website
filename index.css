@@ -20,7 +20,7 @@ h1 {
 }
 
 span {
-     color: #ffffff;
+     color: #ADD8E6;
 }
 
 ul {width: auto;
@@ -42,8 +42,8 @@ a {
 }
 
 a:hover {
-     color: #F0c330;
-     transition: 0.5s;
+     color: #ADD8E6;
+     transition: 0.4s;
 }
 
 
