@@ -22,7 +22,7 @@ h1 {
 h2 { color: black;
      text-align: center;
      font-size: 40px;
-     
+     font-family: "Gill Sans", sans-serif;
      
 }
 
@@ -54,6 +54,15 @@ a:hover {
      color: #ADD8E6;
      transition: 0.4s;
 }
+
+input[type="view schedule"]{ width: 100px;
+     height: 45px;
+     border: none;
+     background: black;
+     color: white;
+     
+}
+
 
 
      
