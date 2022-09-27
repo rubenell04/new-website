@@ -38,7 +38,7 @@ input[type="password"]{
 }
 
 input[type="submit"]{
-  width: 325px;
+  width: 100px;
     height: 45px;
     border: none;
     background: black;
