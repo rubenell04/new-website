@@ -20,22 +20,23 @@ input {
 }
 
 input[type="text"]{
-  display: block;
+  
   margin-bottom: 25px;
   width: 100%;
   border: 2px solid black;
+    display: inline-block; 
   
 }
 
 input[type="password"]{
-  display: block;
+  display: inline-block; 
   margin-bottom: 25px;
   width: 100%;
   border: 2px solid black;
   
 }
 
-input[type="submit"]{
+button {
   width: 344px;
     height: 45px;
     border: none;
