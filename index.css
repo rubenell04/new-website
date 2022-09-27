@@ -1,4 +1,4 @@
-body { background-color: #FFFFFF}
+body { background-color: white;}
 
 h1 {color: black; 
     text-align: center;
@@ -10,6 +10,7 @@ h1 {color: black;
 form { margin: 20px auto;
   width: 320px;
   color: black;
+  border: 3px solid #000000;
   
 }
 
