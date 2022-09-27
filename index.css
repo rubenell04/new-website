@@ -60,10 +60,13 @@ input[type="view schedule"]{ width: 100px;
      border: none;
      background: black;
      color: white;
-     
+     text-align: center;
 }
 
-
+textarea {
+     text-align: center;
+}
+     
 
      
      
