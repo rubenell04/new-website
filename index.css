@@ -55,6 +55,9 @@ a:hover {
      transition: 0.4s;
 }
 
+input { padding: 10px;
+     font-size: inherit;
+
 input[type="submit"]{ width: 100px;
      height: 45px;
      border: none;
