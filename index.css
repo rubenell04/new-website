@@ -67,6 +67,12 @@ textarea {
      text-align: center;
 }
      
+form {
+     margin: 20px auto;
+     width: 320px;
+     color: black;
+     
+}
 
      
      
