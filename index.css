@@ -55,7 +55,7 @@ a:hover {
      transition: 0.4s;
 }
 
-input[type="view schedule"]{ width: 100px;
+input[type="submit"]{ width: 100px;
      height: 45px;
      border: none;
      background: black;
