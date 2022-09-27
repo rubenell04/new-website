@@ -38,12 +38,12 @@ input[type="password"]{
 }
 
 input[type="submit"]{
-  width: 344px;
+  width: 300px;
     height: 45px;
     border: none;
     background: black;
     color: white;
-    display: block; 
+    
   
 }
 
