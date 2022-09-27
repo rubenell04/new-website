@@ -10,7 +10,7 @@ h1 {color: black;
 form { margin: 20px auto;
   width: 320px;
   color: black;
-  border: 3px solid #000000;
+  
   
 }
 
@@ -24,12 +24,12 @@ input[type="text"]{
   margin-bottom: 25px;
   width: 100%;
   border: 2px solid black;
-    display: inline-block; 
+    display: block; 
   
 }
 
 input[type="password"]{
-  display: inline-block; 
+  display: block; 
   margin-bottom: 25px;
   width: 100%;
   border: 2px solid black;
@@ -42,6 +42,7 @@ input[type="submit"]{
     border: none;
     background: black;
     color: white;
+    display: block; 
   
 }
 
