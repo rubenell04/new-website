@@ -76,6 +76,7 @@ form {
      margin: 20px auto;
      width: 320px;
      color: black;
+     float:auto;
      
 }
 
@@ -106,15 +107,5 @@ label {font-family: "Gill Sans", sans-serif;
      
      
 }
-#div3 {
-     
-          position: fixed;
-             top: 50%;
-            left: 50%;
-            margin-top: -100px;
-            margin-left: -100px;
-     
-     
-     
-}
+
 
