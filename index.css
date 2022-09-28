@@ -60,11 +60,12 @@ input { padding: 20px;
      
 }
 
-input[type="submit"]{ width: 300px;
+input[type="submit"]{ width: 100px;
+     display: block;
      height: 45px;
-     border: 2px solid black;
-     background: white;
-     color: black;
+     border: none;
+     background: black;
+     color: white;
      text-align: center;
      font-family: "Gill Sans", sans-serif;
 }
