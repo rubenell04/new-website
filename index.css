@@ -55,13 +55,13 @@ a:hover {
      transition: 0.4s;
 }
 
-input { padding: 20px;
+input { padding: 10px;
        font-size: inherit;
        width: 100%;
      
 }
 
-input[type="submit"]{ width: 100px;
+input[type="submit"]{ width: 100%;
      display: block;
      height: 45px;
      border: none;
