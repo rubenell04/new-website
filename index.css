@@ -55,7 +55,7 @@ a:hover {
      transition: 0.4s;
 }
 
-input { padding: 10px;
+input { padding: 20px;
        font-size: inherit;
      
 }
@@ -81,6 +81,7 @@ select { display: block;
      margin-bottom: 25px;
      width:100%;
      border: 2px solid black;
+     font-family: "Gill Sans", sans-serif;
      
      
 }
