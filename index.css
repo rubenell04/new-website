@@ -57,10 +57,11 @@ a:hover {
 
 input { padding: 20px;
        font-size: inherit;
+       width: 100%;
      
 }
 
-input[type="submit"]{ width: 500px;
+input[type="submit"]{ width: 100px;
      display: block;
      height: 45px;
      border: none;
