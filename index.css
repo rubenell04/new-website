@@ -81,12 +81,14 @@ select { display: block;
      margin-bottom: 25px;
      width:100%;
      border: 2px solid black;
-     font-family: "Gill Sans", sans-serif;
+     
      
      
 }
      
+label {font-family: "Gill Sans", sans-serif;
      
+}
      
      
        
