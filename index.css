@@ -60,7 +60,7 @@ input { padding: 20px;
      
 }
 
-input[type="submit"]{ width: 100px;
+input[type="submit"]{ width: 500px;
      display: block;
      height: 45px;
      border: none;
