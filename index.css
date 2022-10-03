@@ -62,18 +62,19 @@ input { padding: 10px;
 }
 
 input[type="text"]{ display: block;
+     margin-bottom: 25px;
      
      width: 100%;
      border: 2px solid black;
      
 input[type="password"]{ display: block;
-     
+      margin-bottom: 25px;
      width: 100%;
      border: 2px solid black;
    
 
 
-input[type="submit"]{ width: 100%;
+input[type="submit"]{ width: 100px;
      display: block;
      height: 45px;
      border: none;
@@ -92,32 +93,10 @@ form {
      
 }
 
-select { display: block;
-     margin-bottom: 25px;
-     width:100%;
-     border: 2px solid black;
-     
-     
-     
-}
+
+
      
 label {font-family: "Gill Sans", sans-serif;
      
-}
-     
-#div1 {
-     width: 33.33%;
-          float:right;
-     
-     
-     
-}
-#div2 {
-     width: 33.33%;
-          float:left;
-
-     
-     
-}
 
 
