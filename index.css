@@ -61,6 +61,18 @@ input { padding: 10px;
      
 }
 
+input[type="text"]{ display: block;
+     
+     width: 100%;
+     border: 2px solid black;
+     
+input[type="password"]{ display: block;
+     
+     width: 100%;
+     border: 2px solid black;
+   
+
+
 input[type="submit"]{ width: 100%;
      display: block;
      height: 45px;
