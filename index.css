@@ -35,12 +35,11 @@ input[type="text"]{ display: block;
 input[type="password"]{ display: block;
                       margin-bottom: 25px;
                       width: 100%;
-                      border: 2px solid black;
-   
+                      border: 2px solid black; 
 
 }
+
 input[type="submit"]{ width: 100px;
-     display: block;
      height: 45px;
      border: none;
      background: black;
@@ -52,8 +51,4 @@ input[type="submit"]{ width: 100px;
 
 
 
-     
-label {font-family: "Gill Sans", sans-serif;
-     
-}
 
