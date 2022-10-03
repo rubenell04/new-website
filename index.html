@@ -1,7 +1,7 @@
 
   <head>
     <meta charset="utf-8">
-    <title>Admin</title>
+    <title>Manager</title>
     <link rel="stylesheet" href="index.css" type="text/css"/>
   </head>
 <header> 
@@ -14,43 +14,52 @@
 </header>
 
   <body>
-    <h2> Admin</h2>  
+    <h2> Manager</h2>  
     <div id="div1">  
-      
+      <textarea name="schedule" rows="15" cols="42">
+        Schedules go here//
+     </textarea> 
    
     </div>
     
     <div id="div2"> 
-      <input type="text" placeholder="Search.">
-      <textarea name="schedule" rows="15" cols="50">
+      <textarea name="schedule" rows="15" cols="42">
         Searched User go here//
-     </textarea> 
-       <input type="submit" value="Add User">
-      <br>
-       <input type="submit" value="Edit User">
-      <br>
-       <input type="submit" value="Delete User">
-      
      </textarea> 
     </div>
     
     
    
    <form>
-     <label>Subject name: </label> 
-    <input type="text" placeholder="Enter Subject name" name="Subject name" required>
+     <label for="menu1"> Choose an Instance:</label>
+     <select name="menu1">
+       <option value="subject 1">Subject 1<option>
+       <option value="subject 2">Subject 2<option>
+       <option value="subject 3">Subject 3<option>
+       <option value="subject 4">Subject 4<option>
+     </select>
      
-    <label>ID: </label> 
-    <input type="text" placeholder="Enter ID" name="ID" required>
-       
-      <label>Description: </label> 
-    <input type="text" placeholder="Enter Description" name="Description" required>
+     <label for="menu2"> Choose a lecturer:</label>
+     <select name="menu2">
+       <option value="lecturer 1">Lecturer 1<option>
+       <option value="lecturer 2">Lecturer 2<option>
+       <option value="lecturer 3">Lecturer 3<option>
+       <option value="lecturer 4">Lecturer 4<option>
+     </select>
+     
+      <label for="menu3"> Choose a lecturer:</label>
+     <select name="menu3">
+       <option value="roll 1">Roll 1<option>
+       <option value="roll 2">Roll 2<option>
+       <option value="roll 3">Roll 3<option>
+       <option value="roll 4">Roll 4<option>
+     </select>
      
      
-     <input type="submit" value="Create">
+     <input type="submit" value="Create Schedule">
      <br>
      <textarea name="schedule" rows="15" cols="42">
-       Subject created go here//
+       Schedules go here//
      </textarea>
      
    </form>
